@@ -1,6 +1,6 @@
 # Tutorial app
 
-This is a tutorial app I made for reference! Feel free to use or copy this  
+This is a react tutorial app I made for reference! Feel free to use or copy this  
 
 In the project directory, you can run:
 
